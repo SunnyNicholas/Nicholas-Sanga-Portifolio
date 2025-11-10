@@ -108,7 +108,7 @@ University of Dar es Salaam (CoICT), 2018–2021
 
 ---
 
-## 📄 [Download my CV](./Nicholas-Sanga-Portifolio/blob/main/NICHOLAUS__CV_NOW.pdf)
+## 📄 [Download my CV](./NICHOLAUS__CV_NOW.pdf)
 
 ---
 
